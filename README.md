@@ -1,4 +1,4 @@
-# XAYA ID
+# SpeXID
 
 XAYA ID (*XID*) is an application built on the XAYA platform, that
 turns each XAYA name into a **secure digital identity** similar to
